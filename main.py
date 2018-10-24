@@ -11,3 +11,5 @@ from turtle import *
 # Picture
 
 # Text
+write('С праздником!')
+done()
